@@ -98,11 +98,8 @@ a specific service that was provided that is fine, but the intend
 was to provide feedback at the clinic level.
 
 Build status
-[![Build
-Status](https://circleci.com/gh/SEG2105F18/WalkInClinicServices.png?branch = master)
+[![Build Status](https://circleci.com/gh/SEG2105F18/WalkInClinicServices.png?branch = master)
 
 ### Reference
 
 The project is guided by Professor Andrew Forward
-
-](https://circleci.com/gh/SEG2105F18/WalkInClinicServices)
